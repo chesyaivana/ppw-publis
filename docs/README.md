@@ -1,4 +1,4 @@
-# Pengembangan Sistem Informasi Toba Fabric Art 
+# Pengembangan Sistem Informasi Toba Fabric Art *blue
 
 Daerah Toba di Indonesia dikenal dengan budaya dan kerajinan tekstilnya, khususnya kain ulos yang indah. Meskipun memiliki potensi besar, toko-toko yang menjual kerajian tekstil ini sering menghadapi kesulitan dalam memasarkan produk mereka. Pengembangan sistem informasi website ini bertujuan untuk membantu mereka mempromosikan produk ulos, meningkatkan profit, dan memperkenalkan budaya Batak. Sistem ini memiliki user yang terdiri atas pembeli dan admin yang merupakan pemilik toko. website ini memungkinkan pembeli melihat, dan membeli berbagai produk ulos yang tersedia sesuai keinginan mereka. Platform daring ini akan memasarkan berbagai produk ulos yang disediakan oleh pemilik toko.
 
@@ -13,11 +13,23 @@ Find the [codebase here](/webapp).
 + 12S21053 [Chesya Ivana J. M. Sitorus](https://github.com/chesyaivana)
 + 12S21058 [Grace Christina Yohanna Situmorang](https://github.com/gracesitumorang/gracesitumorang)
 
-
 ## Panduan Penggunaan 
 
+Cara Mengakses Proyek : 
+1. Buka link Repository project pada branch main--> "https://github.com/itdel-ppw/23-10-toba-fabric-art/tree/temp"
+2. click code ![Uploading image.png…]()
+3. Pilih "Open With Github Desktop"
+4. buka github desktop
+5. Pilih "open file in vs studio" untuk mengakses file proyek
+6. aktifkan xampp sebelum menjalankan program di dalam file proyek pada vs code
+7. nyalakan apache dan MySql dengan mengklik start untuk mengaktifkan database di MyLocalHost
+8. mulailah menjalankan website dengan melakukan create directory "cd webapp" --> "cd tobaFabricArt"
+9. setelah file directory nya ter create, ketik "php artisan serve untuk mendapatkan route link website di localhost
+10. klik link yang ada di terminal untuk menampilkan website
+
+
 Cara menampilkan gambar : 
-1. Buka link Repository project pada branch tempt --> "https://github.com/itdel-ppw/23-10-toba-fabric-art/tree/temp"
+1. Buka link Repository project pada branch main--> "https://github.com/itdel-ppw/23-10-toba-fabric-art/tree/temp"
 2. click code ![Uploading image.png…]()
 3. Pilih "Open With Github Desktop"
 4. buka github desktop
@@ -31,4 +43,4 @@ Cara menampilkan gambar :
 12. jalankan file dengan mengklik "new terminal"
 13. ketik syntax create directory yang untuk merujuk ke halaman website yang ingin di jalankan "cd webapp" --> " cd tobaFabricArt"
 14. ketik "php artisan serve" untuk mendapatkan link dalam menjalankan website ke server
-15. Gambar yang dimasukkan akan tampil di website.
+15. Gambar yang dimasukkan akan tampil di website
